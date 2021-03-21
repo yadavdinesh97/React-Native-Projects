@@ -1,0 +1,14 @@
+com/stickyheader/MainActivity.java
+ com.stickyheader.MainActivity
+com/stickyheader/MainApplication.java
+ com.stickyheader.MainApplication
+ com.stickyheader.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/stickyheader/BuildConfig.java
+ com.stickyheader.BuildConfig
+com/stickyheader/ReactNativeFlipper.java
+ com.stickyheader.ReactNativeFlipper
+ com.stickyheader.ReactNativeFlipper$1
+ com.stickyheader.ReactNativeFlipper$2
+ com.stickyheader.ReactNativeFlipper$2$1
